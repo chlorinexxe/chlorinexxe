@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @chlorinexxe
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning about it
-- 💞️ I’m looking for oppurtunities on Data Analytics
+Hey there! 👋 I'm Chlorinexxe, a coder who loves turning ideas into reality. When I'm not debugging or building apps, I enjoy exploring new technologies and contributing to open-source projects.
 
-<!---
-chlorinexxe/chlorinexxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently exploring: AI/ML, cloud technologies
+⚡ Fun fact: I have a soft spot for creative coding and side projects
+
+Let's make something awesome together!
